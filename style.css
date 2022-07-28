@@ -1,4 +1,11 @@
+body {
+  background-color: #181a1b;
+}
+
 h1 {
   text-align: center;
   font-size: 40px;
+  color: rgb(250, 250, 250);
+  background-image: url("img/gradient.png");
+  background-color: #131515;
 }
